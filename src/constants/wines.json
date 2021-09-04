@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Scott Peterson ROX Sonoma All Blacks 2019",
+    "type": "red",
+    "region": "USA",
+    "variety": "Syrah | Shiraz blend",
+    "price": "19.99",
+    "image": "../assets/red-wine.jpg"
+  },
+  {
+    "name": "Patrice Grasset Touraine Sauvignon Blanc 2020",
+    "type": "white",
+    "region": "France",
+    "variety": "Sauvignon blanc",
+    "price": "13.99",
+    "image": "../assets/white-wine.jpg"
+  },
+  {
+    "name": "DRG Daryl Groom Alexander Valley Cabernet Sauvignon 2019",
+    "type": "red",
+    "region": "USA",
+    "variety": "Cabernet Sauvignon",
+    "price": "21.99",
+    "image": "../assets/red-wine.jpg"
+  },
+  {
+    "name": "DRG Daryl Groom Dry Creek Valley Zinfandel 2019",
+    "type": "red",
+    "region": "USA",
+    "variety": "Zinfandel | Primitivo",
+    "price": "18.99",
+    "image": "../assets/red-wine.jpg"
+  },
+  {
+    "name": "F. Stephen Millier Black Label California Cabernet Sauvignon 2020",
+    "type": "red",
+    "region": "USA",
+    "variety": "Cabernet Sauvignon",
+    "price": "12.99",
+    "image": "../assets/red-wine.jpg"
+  },
+  {
+    "name": "Nova Cadamatre Finger Lakes Reserve Riesling 2020",
+    "type": "white",
+    "region": "USA",
+    "variety": "Riesling",
+    "price": "17.99",
+    "image": "../assets/white-wine.jpg"
+  },
+  {
+    "name": "Arabella Cabernet Sauvignon 2020",
+    "type": "red",
+    "region": "South Africa",
+    "variety": "Cabernet Sauvignon",
+    "price": "10.99",
+    "image": "../assets/red-wine.jpg"
+  },
+  {
+    "name": "Sacchetto delle Venezie Pinot Grigio 2020",
+    "type": "white",
+    "region": "Italy",
+    "variety": "Pinot grigio | Pinot gris",
+    "price": "10.99",
+    "image": "../assets/white-wine.jpg"
+  },
+  {
+    "name": "Montaria Reserva Capital 2019",
+    "type": "red",
+    "region": "Portugal",
+    "variety": "Red blend",
+    "price": "11.99",
+    "image": "../assets/red-wine.jpg"
+  },
+  {
+    "name": "Arabella Shiraz 2020",
+    "type": "red",
+    "region": "South Africa",
+    "variety": "Syrah | Shiraz",
+    "price": "9.99",
+    "image": "../assets/red-wine.jpg"
+  }
+]
