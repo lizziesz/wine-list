@@ -1,6 +1,5 @@
 <template>
-  <div>
-    Wines go here yo
+  <div class="list">
     <Wine
       v-for="wine in wines"
       :key="wine.name"
@@ -25,9 +24,13 @@ export default {
       wines,
     };
   },
-  
-  mounted() {
-    console.log('wines', this.wines);
-  }
 }
 </script>
+
+<style scoped>
+.list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  grid-gap: 1rem;
+}
+</style>
