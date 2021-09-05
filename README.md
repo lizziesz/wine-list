@@ -1,4 +1,6 @@
-# wine-list
+# Wine List
+
+This simple project displays a list of wine.
 
 ## Project setup
 ```
